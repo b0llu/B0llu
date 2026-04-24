@@ -13,30 +13,27 @@
 
 ---
 
-### About
+### Why
 
-I build web products end-to-end — TypeScript and React on the front, Python or Node on the back. My day job leans frontend: making interfaces that feel fast, quiet, and obvious to use. My nights lean everywhere else.
+Most of what I make starts as curiosity and ends as something I actually use. Small tools compound — the throwaway script you wrote last year is somebody's daily driver today, sometimes your own. That's the part I keep coming back for.
 
-I like owning the full stack even when I'm specializing — API, schema, UI, deploy. Product instincts sharpen when you've had to ship all of it at least once.
+### What I build
+
+- Typed, component-driven UIs — the kind where you can land in any file and understand it in a minute.
+- Small sharp tools — plugins, extensions, CLIs, utilities that do one thing and get out of the way.
+- End-to-end products where one person owns the seam between the API and the screen.
 
 ### How I work
 
 - **POCs first, products second.** New idea, new library, unfamiliar domain — I spin up a throwaway repo and kick the tires before it touches anything real. Half of them die there, and that's the point.
 - **Boring code over clever code.** Small functions, real names, short files. If the next person needs a map to read it, I wrote too much.
 - **Narrow the problem before widening the solution.** Most bugs and features get smaller once you look at them properly.
+- **AI as sparring partner, not autocomplete.** I hand it tight context, push back when it's off, change my mind when it's right, and ask for a review pass before anything ships.
 - **Ship, then polish.** A rough thing in someone's hands beats a perfect thing in my head.
-
-### Stack I reach for
-
-**Frontend** — React, Next.js, TypeScript, Astro, Tailwind, Vite  
-**Backend** — Python, Node.js  
-**Data** — Postgres, MongoDB, Firestore, vector DBs  
-**AI** — LLM integrations, retrieval, prompt design  
-**Rest** — Docker, browser extensions, whatever the problem actually needs
 
 ### Off the keyboard
 
-Badminton, football, fantasy novels and manga, too much Dota 2 and R6 Siege, and getting out of the city whenever I can.
+Badminton, football, fantasy novels, manga, long sessions of whatever game has my attention, and getting out of the city when I can.
 
 ---
 
