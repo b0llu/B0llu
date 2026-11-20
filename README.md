@@ -1,43 +1,29 @@
-<h1 align="center">Hey, I'm Dhruv 👋</h1>
+### Hi, I'm Dhruv.
 
-<p align="center">
-  Software engineer · building on the web from Pune, India
-</p>
+Software engineer in Pune. Web by day (TypeScript, React, Next.js), and whatever stack the side project needs by night: C# for a Windows app, Rust and Swift for a window manager, Devvit for a Reddit game, a build plugin for npm.
 
-<p align="center">
-  <a href="https://dhruv-samant.netlify.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/the-best-dhruv/">LinkedIn</a> ·
-  <a href="https://x.com/TheBestDhruv">Twitter/X</a> ·
-  <a href="mailto:samantdhruv@gmail.com">Email</a>
-</p>
+Most of it starts as a throwaway repo. A few survive.
 
----
+#### The one that survived
 
-### Why
+**[RigSight](https://github.com/b0llu/Rigsight)**: know your rig. A Windows PC tracker that records temperatures, app time, internet use and crashes all day and keeps the history, at about 0.02% CPU. C# / WPF, MIT.
 
-Most of what I make starts as curiosity and ends as something I actually use. Small tools compound — the throwaway script you wrote last year is somebody's daily driver today, sometimes your own. That's the part I keep coming back for.
+80+ releases, 3,800+ downloads, 60+ stars. I run it solo: the app, the release pipeline, [the site and blog](https://rigsight.app), the backend behind its AI features, and the tests and tooling that keep AI-written code honest.
 
-### What I build
+#### Also shipped
 
-- Typed, component-driven UIs — the kind where you can land in any file and understand it in a minute.
-- Small sharp tools — plugins, extensions, CLIs, utilities that do one thing and get out of the way.
-- End-to-end products where one person owns the seam between the API and the screen.
+- **[oklchtohex](https://github.com/b0llu/oklchtohex)**: a Vite / Next.js / Astro plugin that rewrites `oklch()` colours to hex in your built CSS. 2,500+ [npm downloads](https://www.npmjs.com/package/oklchtohex).
+- **[NumBlitz](https://github.com/b0llu/numblitz)**: a daily mental-math race on Reddit. Same questions for everyone that day, leaderboards, streaks.
 
-### How I work
+#### On the bench
 
-- **POCs first, products second.** New idea, new library, unfamiliar domain — I spin up a throwaway repo and kick the tires before it touches anything real. Half of them die there, and that's the point.
-- **Boring code over clever code.** Small functions, real names, short files. If the next person needs a map to read it, I wrote too much.
-- **Narrow the problem before widening the solution.** Most bugs and features get smaller once you look at them properly.
-- **AI as sparring partner, not autocomplete.** I hand it tight context, push back when it's off, change my mind when it's right, and ask for a review pass before anything ships.
-- **Ship, then polish.** A rough thing in someone's hands beats a perfect thing in my head.
+- **[Tessera](https://github.com/b0llu/tessera)**: a tiling window manager for macOS in Rust and Swift, with a real settings app instead of only a config file. Early.
+- **[tripmap](https://github.com/b0llu/tripmap)**: paste a few travel vlogs, get every place they mention with a timestamped link back to the moment. A Gemini proof of concept.
 
-### Off the keyboard
+#### How I work
 
-Badminton, football, fantasy novels, manga, long sessions of whatever game has my attention, and getting out of the city when I can.
+New ideas get a throwaway repo first; half of them die there, which is the point. I use AI heavily and treat it like a sparring partner: tight context, a review pass, and tests it can't argue with. Boring code over clever code.
 
----
+Off the keyboard: badminton, football, fantasy novels, manga, and whatever game has my attention.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b0llu&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0llu&layout=compact&hide_border=true&theme=transparent" height="160" />
-</p>
+[Site](https://dhruv-samant.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/the-best-dhruv/) · [X](https://x.com/TheBestDhruv) · [Email](mailto:samantdhruv@gmail.com)
